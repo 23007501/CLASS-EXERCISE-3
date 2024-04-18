@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713455830 source:c:\com 2123 projects\partner matcher\main.cpp
+	<iostream>
+	<string>
+
